@@ -31,7 +31,7 @@ Around 20 hours across multiple sessions
 - Dedicated VM per apprentice
 - No password login required (credentials stored in Guacamole)
 - Accessible from anywhere via Cloudflare Tunnel
-- 9 course chapters in MkDocs
+- 8 course chapters in MkDocs
 - Automatic VM reset after each session via Proxmox snapshots
 
 ## 🎯 Architecture
