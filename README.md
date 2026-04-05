@@ -1,2 +1,57 @@
-# proxmox-course
-Browser-based Linux course infrastructure built on Proxmox with MkDocs, Guacamole and Cloudflare
+# 🐧 Linux Course Infrastructure
+
+A browser-based Linux course for apprentices built on 
+Proxmox. The goal was to create a professional learning 
+environment accessible from anywhere without any local 
+setup required.
+
+> Built as a side project to help colleagues prepare 
+> for their Linux exam 
+
+## 📦 Tech Stack
+- Proxmox VE
+- Debian 12
+- Nginx (Reverse Proxy)
+- MkDocs + Material Theme
+- Apache Guacamole (Docker)
+- Cloudflare Tunnel
+- MySQL
+
+## 🚦 Requirements
+- Proxmox Server (min. 32GB RAM)
+- Cloudflare Account (Free)
+- Domain (recommended)
+- Debian 12 ISO
+
+## ⏱️ Time Spent
+Around 20 hours across multiple sessions
+
+## 🦄 Features
+- Browser-based terminal access via Apache Guacamole
+- Dedicated VM per apprentice
+- No password login required (credentials stored in Guacamole)
+- Accessible from anywhere via Cloudflare Tunnel
+- 9 course chapters in MkDocs
+- Automatic VM reset after each session via Proxmox snapshots
+
+## 🎯 Architecture
+<img width="676" height="929" alt="image" src="https://github.com/user-attachments/assets/8bfc0a53-d738-4fbe-98a4-c4170e4e9cf6" />
+
+Internet → Cloudflare Tunnel → Nginx Reverse Proxy → MkDocs / Guacamole → Apprentice VMs
+
+## 📚 What I Learned
+- Setting up and managing multiple Linux VMs on Proxmox
+- Configuring Nginx as a Reverse Proxy including WebSocket support
+- Deploying services with Docker and Docker Compose
+- Setting up Cloudflare Tunnel for secure external access
+- WebSocket configuration for real-time browser applications
+- Network fundamentals in a homelab environment
+
+## 💭 How can it be improved?
+- Add a Windows/Active Directory course
+- Add automated VM resets after each session
+- Add a monitoring dashboard
+- Add more course chapters
+
+## 🍿 Video Showcase
+
