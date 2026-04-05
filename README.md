@@ -53,5 +53,9 @@ Internet → Cloudflare Tunnel → Nginx Reverse Proxy → MkDocs / Guacamole �
 - Add a monitoring dashboard
 - Add more course chapters
 
-## 🍿 Video Showcase
+## 🍿 Video 
+
+
+
+https://github.com/user-attachments/assets/272f0299-201e-4f78-8b7f-bc3c97353e48
 
