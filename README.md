@@ -32,7 +32,7 @@ Around 20 hours across multiple sessions
 - No password login required (credentials stored in Guacamole)
 - Accessible from anywhere via Cloudflare Tunnel
 - 8 course chapters in MkDocs
-- Automatic VM reset after each session via Proxmox snapshots
+- VM reset capability via Proxmox snapshots
 
 ## 🎯 Architecture
 <img width="676" height="929" alt="image" src="https://github.com/user-attachments/assets/8bfc0a53-d738-4fbe-98a4-c4170e4e9cf6" />
