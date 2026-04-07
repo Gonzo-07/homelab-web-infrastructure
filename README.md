@@ -1,6 +1,6 @@
 # 🐧 Linux Course Infrastructure
 
-A browser-based Linux course for apprentices built on 
+A browser-based Linux course built on 
 Proxmox. The goal was to create a professional learning 
 environment accessible from anywhere without any local 
 setup required.
