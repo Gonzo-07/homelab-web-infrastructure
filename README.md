@@ -34,6 +34,25 @@ Around 25 hours across multiple sessions
 - 8 course chapters in MkDocs
 - VM reset capability via Proxmox snapshots
 
+## 🔁 Reusable Infrastructure
+
+This project serves as a base infrastructure for 
+multiple web projects. Adding a new service is as 
+simple as:
+
+1. Create a new VM or project
+2. Add a new location block in Nginx
+3. Add a new subdomain in Cloudflare
+4. Done! 🎉
+
+**Already running:**
+- 🐧 Linux Course (this project)
+
+**Planned:**
+- 📝 CTF Writeups
+- 🌐 Portfolio Website
+- 📚 Project Wiki
+
 ## 🎯 Architecture
 <img width="676" height="929" alt="image" src="https://github.com/user-attachments/assets/8bfc0a53-d738-4fbe-98a4-c4170e4e9cf6" />
 
