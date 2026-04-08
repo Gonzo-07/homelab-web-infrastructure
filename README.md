@@ -1,4 +1,4 @@
-# 🐧 Linux Course Infrastructure
+# 💻 Homelab Web Infrastructure
 
 A browser-based Linux course built on 
 Proxmox. The goal was to create a professional learning 
