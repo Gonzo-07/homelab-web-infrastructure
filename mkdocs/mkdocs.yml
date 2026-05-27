@@ -1,0 +1,22 @@
+site_url: http://deineIP/kurs/
+site_name: Linux Kurs
+site_description: Linux Kurs für Kollegen
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: blue
+    accent: blue
+  language: de
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
