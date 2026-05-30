@@ -18,7 +18,7 @@ setup required.
 - MySQL
 
 ## 🚦 Requirements
-- Proxmox Server (min. 32GB RAM)
+- Proxmox Server (min. 16GB+- RAM depending on how many VMs)
 - Cloudflare Account (Free)
 - Domain (recommended)
 - Debian 12 ISO
