@@ -24,7 +24,7 @@ setup required.
 - Debian 12 ISO
 
 ## ⏱️ Time Spent
-Around 25 hours across multiple sessions
+Around 25 hours across multiple sessions (while documenting)
 
 ## 🦄 Features
 - Browser-based terminal access via Apache Guacamole
