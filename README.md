@@ -6,7 +6,12 @@ environment accessible from anywhere without any local
 setup required.
 
 > Built as a side project to help colleagues prepare 
-> for their Linux exam 
+> for their Linux exam
+
+## 📖 Full Documentation 
+[View full setup guide on Notion]([dein-notion-link](https://brawny-dracorex-d4b.notion.site/Homelab-Web-Infrastructure-31ac8d95942180329215e5b1df903215#371c8d9594218064b9f8c460fdba545a))
+## currently only in German and in Notion
+> Soon in an external side on mkdocs with english and German translation!
 
 ## 📦 Tech Stack
 - Proxmox VE
@@ -18,7 +23,7 @@ setup required.
 - MySQL
 
 ## 🚦 Requirements
-- Proxmox Server (min. 16GB+- RAM depending on how many VMs)
+- Proxmox Server (min. 16GB RAM depending on how many VMs)
 - Cloudflare Account (Free)
 - Domain (recommended)
 - Debian 12 ISO
