@@ -2,7 +2,7 @@
 
 A browser-based Linux course built on Proxmox. The goal was to create a professional learning environment accessible from anywhere without any local setup required.
 
-> Built as a side project to help colleagues prepare for their Linux exam
+> Built as a side project to help colleagues prepare for their Linux exam while also serving as the foundation for a reusable web infrastructure.
 
 ## 📖 Full Documentation in German
 
@@ -76,8 +76,7 @@ This project serves as a base infrastructure for multiple web projects. Adding a
 
 ## 💭 How can it be improved?
 
-- Add a Windows/Active Directory course
-- Add automated VM resets after each session
+- Add a another course
 - Add a monitoring dashboard
 - Add more course chapters
 
