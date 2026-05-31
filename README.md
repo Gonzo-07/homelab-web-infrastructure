@@ -8,10 +8,13 @@ setup required.
 > Built as a side project to help colleagues prepare 
 > for their Linux exam
 
-## 📖 Full Documentation 
+## 📖 Full Documentation in German
 [View full setup guide on Notion](https://brawny-dracorex-d4b.notion.site/Homelab-Web-Infrastructure-31ac8d95942180329215e5b1df903215)
-## currently only in German and in Notion
-> Soon in an external side on mkdocs with english and German translation!
+## 📖 Full Documentation in English
+[View full setup guide on Notion](https://brawny-dracorex-d4b.notion.site/Homelab-Web-Infrastructure-English-371c8d959421801baaa0f9fbafdbf6f2)
+
+## currently in Notion
+> Soon in an external side on MkDocs
 
 ## 📦 Tech Stack
 - Proxmox VE
